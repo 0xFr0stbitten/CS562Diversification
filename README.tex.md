@@ -2,7 +2,7 @@
 
 ### Abstract
 
-To solve the problem of returning too many homogeneous results in any type of search, several algorithms have been created for generation a diversed set of results while maintaining closeness to query. Specifically, this paper will deal with several content-based diversity for refining k-Nearest-Neighbor (k-NN) search, and compare performance of these algorithms on real case dataset.
+To solve the problem of returning too many homogeneous results in any type of search, several algorithms have been created for generation a diversed set of results while maintaining closeness to query. Specifically, this paper will deal with several content-based diversity for refining $k$-Nearest-Neighbor ($k$-NN) search, and compare performance of these algorithms on real case dataset.
 
 ### Introduction and Motivation
 
@@ -66,6 +66,11 @@ From figures (1)~(4), we can find the difference between searching in the whole 
 
 We can also notice that MOTLEY generate result with much higher diversity, only
 with the cost of moderate increase on average distance from query point.
+
+![](/img/Report_P1.jpg) 
+![](/img/Report_P2.jpg) 
+![](/img/Report_P3.jpg) 
+![](/img/Report_P4.jpg) 
 
 ### Conclusion and Future Work
 

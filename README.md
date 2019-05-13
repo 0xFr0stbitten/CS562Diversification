@@ -63,10 +63,10 @@ From figures (1)~(4), we can find the difference between searching in the whole 
 We can also notice that MOTLEY generate result with much higher diversity, only
 with the cost of moderate increase on average distance from query point.
 
-![](/img/Report_P1.jpg) 
-![](/img/Report_P2.jpg) 
-![](/img/Report_P3.jpg) 
-![](/img/Report_P4.jpg) 
+![](/img/Report_P1.png) 
+![](/img/Report_P2.png) 
+![](/img/Report_P3.png) 
+![](/img/Report_P4.png) 
 
 ### Conclusion and Future Work
 
